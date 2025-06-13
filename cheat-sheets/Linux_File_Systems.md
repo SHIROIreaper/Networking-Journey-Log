@@ -115,5 +115,5 @@ A quick reference guide to understand Linux directory structure and their uses.
 - Use `ls -l` to inspect permissions.
 - Use `df -h` to view disk usage by filesystem.
 - Use `du -sh *` inside a directory to see space usage.
-- Use tree tool that visually maps directory structures in a hierarchical, tree-like format. Unlike the basic ls command, which lists files and folders linearly. You can install tree : [Install Tree](https://www.linuxfoundation.org/hubfs/Imported_Blog_Media/standard-unix-filesystem-hierarchy-1500x826.png)
+- Use tree tool that visually maps directory structures in a hierarchical, tree-like format. Unlike the basic ls command, which lists files and folders linearly. You can install tree : [Install Tree](https://www.geeksforgeeks.org/tree-command-unixlinux/)
 ---
