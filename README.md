@@ -1,11 +1,11 @@
-# 🌐 Networking Journey by Vyshnav PC
+# Networking Journey by Vyshnav PC
 
-Hey there! 👋  
-This is my personal repo where I’m learning and exploring the world of computer networking and cybersecurity — step by step, one concept and tool at a time.
+Hey there! 👋
+This is my personal repo where I’m recording my learning journey towards computer networking and cybersecurity concepts, while exploring various tools and techniques.
 
 ---
 
-## 📚 What's Inside
+## Overview
 
 - Notes on networking concepts (IP addressing, DNS, OSI model, etc.)
 - Hands-on labs using tools like Nmap, Ping, Traceroute, Wireshark
@@ -14,7 +14,7 @@ This is my personal repo where I’m learning and exploring the world of compute
 
 ---
 
-## 🧰 Tools I’m Using
+## Tools I’ll Focus for now
 
 - "nmap", "ping", "traceroute", "whois" , "wireshark"
 - Python for automation and scripting perhaps
@@ -22,7 +22,7 @@ This is my personal repo where I’m learning and exploring the world of compute
 
 ---
 
-## 📌 Why This Repo?
+## Why This Repo?
 
 Just to:
 - Track my own progress
