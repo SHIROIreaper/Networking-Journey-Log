@@ -11,4 +11,4 @@
 ## Salting
 - Its a process by which a additional `salt` is introduced to the hash.
 - This ensures that even if 2 password are identical, due to the salt the hash corresponding to both would be different.
-
+- This further secures the plaintext from being acquired by the adversaries.
