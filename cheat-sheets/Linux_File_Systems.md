@@ -5,13 +5,13 @@ A quick reference guide to understand Linux directory structure and their uses.
 
 ---
 
-## 📁 Root Directory `/`
+##  Root Directory `/`
 - The top of the filesystem hierarchy.
 - Everything starts from here.
 
 ---
 
-## 📂 Essential Directories
+##  Essential Directories
 
 ### `/bin`
 - Essential user binaries (commands like `ls`, `cp`, `mv`, `rm`).
@@ -37,7 +37,7 @@ A quick reference guide to understand Linux directory structure and their uses.
 
 ---
 
-## 📂 Administrative & Advanced
+##  Administrative & Advanced
 
 ### `/media`
 - Auto-mounted removable media (USB, CD-ROM).
@@ -72,7 +72,7 @@ A quick reference guide to understand Linux directory structure and their uses.
 
 ---
 
-## 📂 `/usr` Hierarchy (User Software)
+##  `/usr` Hierarchy (User Software)
 
 ### `/usr/bin`
 - Non-essential user binaries.
@@ -97,7 +97,7 @@ A quick reference guide to understand Linux directory structure and their uses.
 
 ---
 
-## 📂 `/var` — Variable Data
+##  `/var` — Variable Data
 
 ### `/var/log`
 - System logs.
@@ -110,7 +110,7 @@ A quick reference guide to understand Linux directory structure and their uses.
 
 ---
 
-## 🧠 Tips
+##  Useful commands
 
 - Use `ls -l` to inspect permissions.
 - Use `df -h` to view disk usage by filesystem.
