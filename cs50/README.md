@@ -2,7 +2,7 @@
 ---
 ## Overview
 - Welcome to my journey through CS50's Introduction to Cybersecurity — an entry-level course from Harvard that explores how systems are attacked and how we can protect them.
-> [course URL :](https://learning.edx.org/course/course-v1:HarvardX+CS50CS+Cybersecurity/home)
+> [Course URL](https://learning.edx.org/course/course-v1:HarvardX+CS50CS+Cybersecurity/home)
 
 ---
 
